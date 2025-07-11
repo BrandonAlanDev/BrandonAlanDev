@@ -22,18 +22,22 @@
 ### 🛠️ Lenguajes y tecnologías
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="height:40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="height:40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="height:40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height:40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="height:40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="height:40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="height:40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height:40px;"/>
+</p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="height:40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height:40px;"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="height:40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height:40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="height:40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height:40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="height:40px;"/>
 </p>
 
 ---
@@ -62,4 +66,3 @@
   <a href="mailto:brandoncarabajal@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://brandonalandev.github.io/Portfolio2025"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
-
