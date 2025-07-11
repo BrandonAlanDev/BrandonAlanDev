@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Brandon Alan Carabajal</h1>
-<h3 align="center">Desarrollador Full Stack & Game Developer 💻🎮</h3>
+<h3 align="center">Desarrollador Full Stack 💻</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brandon-alan-carabajal-97b294223/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
