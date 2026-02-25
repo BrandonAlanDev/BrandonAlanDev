@@ -42,23 +42,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrandonAlanDev&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonAlanDev&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BrandonAlanDev&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ### 🔗 Conectá conmigo
 
 <p align="center">
