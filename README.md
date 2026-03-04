@@ -12,9 +12,9 @@
 ### 🚀 Sobre mí
 
 - 🎯 Apasionado por el desarrollo web y la creación de videojuegos.
-- 💼 Actualmente trabajando en proyectos con tecnologías como **React, .NET, Spring Boot y Unity**.
+- 💼 Actualmente trabajando en proyectos con tecnologías como **React, NEXTjs, .NET y Unity**.
 - 🧠 Aprendiendo constantemente y explorando nuevas herramientas.
-- 🌐 Mi portfolio: [brandonalandev.github.io/Portfolio2025](https://brandonalandev.github.io/Portfolio2025)
+- 🌐 Mi portfolio: [brandonalandev.github.io/](https://brandonalandev.github.io/)
 - 📫 Contactame: **brandonalandev@gmail.com**
 
 ---
