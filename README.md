@@ -15,7 +15,7 @@
 - 💼 Actualmente trabajando en proyectos con tecnologías como **React, NEXTjs, .NET y Unity**.
 - 🧠 Aprendiendo constantemente y explorando nuevas herramientas.
 - 🌐 Mi portfolio: [brandonalandev.github.io/](https://brandonalandev.github.io/)
-- 📫 Contactame: **brandonalandev@gmail.com**
+- 📫 Contactame: **brandoncarabajal@gmail.com**
 
 ---
 
