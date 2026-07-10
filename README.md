@@ -1,51 +1,70 @@
-<h1 align="center">Hola 👋, soy Brandon Alan Carabajal</h1>
-<h3 align="center">Desarrollador Full Stack 💻</h3>
+<!-- Título Animado -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hola+%F0%9F%91%8B%2C+soy+Brandon;Desarrollador+Full+Stack+%F0%9F%92%BB;Bienvenido+a+mi+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
+<!-- Badges de Contacto -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/brandon-alan-carabajal-97b294223/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:brandoncarabajal@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="https://brandonalandev.github.io/Portfolio2025"><img src="https://img.shields.io/badge/-Portfolio-24292E?style=flat-square&logo=GitHub&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/brandon-alan-carabajal-97b294223/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:brandoncarabajal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://brandonalandev.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🎯 Apasionado por el desarrollo de software.
-- 💼 Actualmente trabajando en proyectos con tecnologías como **React, NEXTjs, .NET y Unity**.
-- 🧠 Aprendiendo constantemente y explorando nuevas herramientas.
-- 🌐 Mi portfolio: [brandonalandev.github.io/](https://brandonalandev.github.io/)
-- 📫 Contactame: **brandoncarabajal@gmail.com**
+*   🎯 **Misión:** Apasionado por el desarrollo de software y la creación de soluciones eficientes.
+*   💼 **Actualidad:** Trabajando en proyectos integrales con tecnologías como **React, Next.js, .NET y Unity**.
+*   🧠 **Mentalidad:** Aprendiendo constantemente y explorando nuevas herramientas arquitectónicas.
+*   🌐 **Portfolio:** [brandonalandev.github.io](https://brandonalandev.github.io/)
+*   📫 **Contacto:** brandoncarabajal@gmail.com
 
 ---
 
-### 🛠️ Lenguajes y tecnologías
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height:40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="height:40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="height:40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="height:40px;"/>
-</p>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="height:40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height:40px;"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="height:40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height:40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height:40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="height:40px;"/>
-</p>
-
----
-
-### 🔗 Conectá conmigo
+### 🛠️ Lenguajes y Tecnologías
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brandon-alan-carabajal-97b294223/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:brandoncarabajal@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://brandonalandev.github.io/Portfolio2025"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://skillicons.dev">
+    <!-- Fila 1: Frontend & Core -->
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,angular,php" /><br><br>
+    <!-- Fila 2: Backend & C# -->
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,unity" /><br><br>
+    <!-- Fila 3: Bases de Datos & Tools -->
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,github" />
+  </a>
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <!-- Tarjeta de Estadísticas Generales -->
+  <a href="https://github.com/brandonalandev">
+    <img src="https://github-readme-stats.vercel.app/api?username=brandonalandev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Estadísticas de Brandon" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Tarjeta de Lenguajes Más Usados -->
+  <a href="https://github.com/brandonalandev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonalandev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Lenguajes Top" />
+  </a>
+  <!-- Tarjeta de Racha de Commits -->
+  <a href="https://github.com/brandonalandev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonalandev&theme=radical&hide_border=true&background=0D1117" alt="Racha de GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=brandonalandev&color=0077B5&style=flat-square&label=Vistas+del+Perfil" alt="Contador de vistas" />
 </p>
