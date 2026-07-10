@@ -46,17 +46,6 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <!-- Tarjeta de Estadísticas Generales -->
-  <a href="https://github.com/brandonalandev">
-    <img src="https://github-readme-stats.vercel.app/api?username=brandonalandev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Estadísticas de Brandon" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Tarjeta de Lenguajes Más Usados -->
-  <a href="https://github.com/brandonalandev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonalandev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Lenguajes Top" />
-  </a>
   <!-- Tarjeta de Racha de Commits -->
   <a href="https://github.com/brandonalandev">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonalandev&theme=radical&hide_border=true&background=0D1117" alt="Racha de GitHub" />
