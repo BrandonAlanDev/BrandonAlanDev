@@ -35,9 +35,9 @@
     <!-- Fila 1: Frontend & Core -->
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular" /><br><br>
     <!-- Fila 2: Backend & C# -->
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,unity,php" /><br><br>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,php" /><br><br>
     <!-- Fila 3: Bases de Datos & Tools -->
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,github" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,github,unity" />
   </a>
 </p>
 
